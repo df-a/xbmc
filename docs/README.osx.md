@@ -29,7 +29,7 @@ There are 3 ways to build Kodi for Mac:
 Kodi for Mac is composed of a main binary with numerous dynamic libraries and
 codecs that support a multitude of music and video formats.
 
-The minimum version of OSX you need to run(!) Kodi is 10.7 atm.
+The minimum version of OSX you need to run(!) Kodi is 10.7 at the moment.
 
 - On Mavericks (OSX 10.9.x) we recommend using Xcode 6.1.
 - On Yosemite (OSX 10.10.x) we recommend using Xcode 6.4.
