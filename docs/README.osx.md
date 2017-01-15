@@ -185,7 +185,7 @@ has to be omitted, or specifically set to `-G "Unix Makefiles"`.
 CMake generate a target called `dmg` which will package Kodi.app for
 distribution.
 
-After Kodi has been build, the target ca be triggered with by selecting it in
+After Kodi has been build, the target can be triggered with by selecting it in
 Xcode, or if using makefiles by issuing:
 
     make dmg
